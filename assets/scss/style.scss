@@ -1,5 +1,6 @@
 // Colors
-$primary: #E8C23B; // darker
+$primary: #e6b400ff; // darker
+//$primary: #E8C23B; // darker
 //$primary: #EDD16C; // light yellow
 //$primary: #0b3b17; // green
 $secondary: #f88379;
@@ -22,7 +23,7 @@ $link-hover-decoration: underline;
 // Footer
 $footer-background-color: $primary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: darken($primary, 40%);
 $sub-footer-text-color: $white;
 
 // Bootstrap
